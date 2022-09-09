@@ -2,6 +2,13 @@
 #include <time.h>
 #include <stdio.h>
 
+/*
+ * main -  prints out whether a number is either positive, negative or a zero
+ *
+ * return - always (succes)
+ *
+ */
+
 
 int main(void)
 {
@@ -18,12 +25,12 @@ int main(void)
 
 	else if (n == 0)
 	{
-		printf("%d is zero", n);
+		printf("%d is zero\n", n);
 	}
 
 	else
 	{
-		printf("%d is negative", n);
+		printf("%d is negative\n", n);
 	}
 	return (0);
 }
