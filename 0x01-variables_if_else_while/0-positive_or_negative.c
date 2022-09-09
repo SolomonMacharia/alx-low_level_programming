@@ -4,7 +4,8 @@
 
 /**
  * main - Prints if number is either positive, negative or a zero
- *
+ * Description - Prints if number is either positive, 
+ * negative or a zero
  * Return - Always (Success)
  */
 
