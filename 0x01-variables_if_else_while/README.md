@@ -2,3 +2,6 @@
 1. Prints out the last digit 
 2 . a program that prints the alphabet in lowercase, followed by a new line.
 a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+a program that prints the alphabet in lowercase, followed by a new line.
+
+except q and e
