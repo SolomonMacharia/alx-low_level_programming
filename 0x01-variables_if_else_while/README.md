@@ -10,3 +10,4 @@ except q and e
 
 You are not allowed to use any variable of type char
 7. a program that prints the lowercase alphabet in reverse, followed by a new line.
+8. prints all the numbers of base 16
