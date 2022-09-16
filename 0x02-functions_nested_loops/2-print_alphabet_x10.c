@@ -1,4 +1,4 @@
-#include "0x02-functions_nested_loops/main.h"
+#include "/alx-low_level_programming/0x02-functions_nested_loops/main.h"
 
 /**
  * print_alphabet_x10 - prints 10 times the alphabet in lowercase
